@@ -1,0 +1,55 @@
+	body {
+			font-family: 'Lato', sans-serif;
+		
+		}
+ 	.container {
+  background-image: url("bg.jpg");
+}
+	
+		.header{
+			display: flex; margin-bottom:20px;
+		}
+		.main-title{
+			font-size: 26px;
+			text-transform: uppercase;
+			border-bottom: 3px solid #00cc66;
+			margin: 0 auto;
+		}
+		
+		.name
+		{ 
+			font-size:20px; 
+			font-weight: bold;
+		}
+
+		table th
+		{
+		margin: 0 !important;
+		padding: 0 !important;
+		}
+		table td{
+			padding: 5px !important;
+		}
+		table th h3
+		{
+			font-size: 16px;
+			text-transform: uppercase;
+			background-color: #00cc66;
+			color: #ffffff;
+			font-weight: bold;
+			padding: 5px;
+		}
+		.info
+		{
+			margin-bottom: 10px;
+		}
+		.title
+		{
+			padding-left: 50px !important;
+			width: 30%;
+		}
+		.sign
+		{
+			width:10%;
+		}
+		
